@@ -1,0 +1,6 @@
+name: Valiant-Hub
+author: EerieAlchemist
+api: 3.14.0
+version: 1.0.0
+main: Valiant\Main
+description: "the hub core for Valiant Practice"

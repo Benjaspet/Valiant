@@ -1,0 +1,6 @@
+name: "Valiant"
+main: Valiant\Core
+api: 3.14.0
+version: 1.0.0
+author: "EerieAlchemist"
+description: "Valiant's free-for-all practice core."

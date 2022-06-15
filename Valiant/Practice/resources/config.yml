@@ -1,0 +1,16 @@
+banned-commands-in-combat-message: "§cYou cannot do this at the moment."
+no-longer-in-combat-message: "§aYou are no longer in combat."
+banned-combat-commands:
+  - 'spawn'
+  - 'hub'
+  - 'lobby'
+  - 'rekit'
+  - 'kill'
+sumo-event-world: "Sumo-Event"
+sumo-event-pos1: [261.5, 54, 248.5]
+sumo-event-pos2: [272.5, 54, 248.5]
+banlogwebhook: "https://discord.com/api/webhooks/811800957037969438/iJMSA9QbxmX2Yn6NKvVwQIGfZ5iJ9J0HmBOf10V-YzR7XtuZRMkyQxd1IXrk9L8ERLP4"
+kicklogwebhook: "https://discord.com/api/webhooks/812836100136894516/KJzD6-Oh6mxDS29ISwX7KRqQ1umHIvjfKEX4hXWO_LzPEfftVzqdGnn2ZCGZ2rq6pK1G"
+mutelogwebhook: ""
+statuswebhook: ""
+discord: ""
